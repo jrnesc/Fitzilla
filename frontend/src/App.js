@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import logo from "./Animals-Dinosaur-icon.png";
 
 // Importing High Level Components
 import Login from "./components/pages/Login";

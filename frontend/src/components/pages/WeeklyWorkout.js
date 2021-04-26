@@ -10,7 +10,7 @@ const WeeklyWorkout = ({ workout }) => {
       <h1 className="pageTitles">Weekly Workout</h1>
       <Pagination workout={workout} />
       <Link className="linkRemove btnMultiples" to="/dailyweekly">
-        <button className="btnMultiple">Create Another Workout</button>
+        <button className="btn">Create Another Workout</button>
       </Link>
     </div>
   );

@@ -34,7 +34,7 @@ h3 {
   background-color: transparent;
   border: 2px rgb(0, 0, 0);
   border-radius: 0.6em;
-  color: rgb(0, 0, 0);
+  color: rgb(247, 244, 244);
   cursor: pointer;
   display: flex;
   align-self: center;
@@ -46,7 +46,8 @@ h3 {
   text-align: center;
   font-family: "Baloo Paaji 2", cursive;
   font-weight: 700;
-  transition: box-shadow 500ms ease-in-out, color 600ms ease-in-out;
+  box-shadow: 0 0 40px 40px #045300 inset, 0 0 0 0 #045300;
+  transition: box-shadow 1000ms ease-in-out, color 1000ms ease-in-out;
   text-decoration: none;
 }
 
@@ -54,7 +55,7 @@ h3 {
 .btn:focus {
   color: rgb(255, 255, 255);
   outline: 0;
-  box-shadow: 0 0 40px 40px #045300 inset;
+  box-shadow: 0 0 40px 40px #9900ff inset;
 }
 
 .btnMultiples {
@@ -225,7 +226,7 @@ h3 {
   overflow: auto;
   padding: 30px;
   border-radius: 50px;
-  font-family: "Neucha", cursive;
+  font-family: "Baloo Paaji 2", cursive;
   font-size: 30px;
   line-height: 1.5em;
   z-index: 2;
