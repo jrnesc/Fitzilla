@@ -34,6 +34,3 @@ Better Call Fitzilla!
     #Terminal II
     npm start
  ```
-
- ### Preview
- <img width="400" alt="Screenshot 2021-04-27 000346" src="https://user-images.githubusercontent.com/78368044/116161673-12a18500-a6ec-11eb-8ebd-6e6aba8c83d0.png"> <img width="458" alt="Capture" src="https://user-images.githubusercontent.com/78368044/116161543-d3733400-a6eb-11eb-86b5-fa9e3b0dec1b.PNG">
