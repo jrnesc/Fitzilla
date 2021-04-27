@@ -1,4 +1,4 @@
-## *Fitzilla*
+## *Fitzilla (FrontEnd Project)*
 Your Customisable Workout Generator
 
 Want to rampage through cities all day?
