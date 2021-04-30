@@ -24,8 +24,6 @@ Better Call Fitzilla!
  ```sh
     #Terminal II
     cd frontend
-    python -m venv .env
-    source .env/bin/activate (or .env/scripts/activate)
     npm install
  ```
 
